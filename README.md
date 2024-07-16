@@ -5,7 +5,7 @@ Chic Cart is a project aimed at replicating the functions and requirements of a 
 ## Main Pages
 
 - **Live Page:** Splash screen with logo, name, and motto.
-![Live Page](ChicCart\images\live.png)
+![Live Page](images/live.png)
 - **Main Page:** Navigation bar, footer with category details.
 
 ## Home Pages
