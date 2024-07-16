@@ -63,10 +63,6 @@ Chic Cart is a project aimed at replicating the functions and requirements of a 
 
 ## Profile Page
 
-- **Profile Page**
-
-![Profile Page](images/profile.png)
-
 - **Signup Page**
 
 ![Signup Page](images/signup.png)
@@ -76,7 +72,10 @@ Chic Cart is a project aimed at replicating the functions and requirements of a 
 ![Login Page](images/login.png)
 
 - **Successful Login Page**
+
 - **Profile Page**
+
+![Profile Page](images/profile.png)
 
 ## Wishlist
 
