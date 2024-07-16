@@ -11,6 +11,7 @@ Chic Cart is a project aimed at replicating the functions and requirements of a 
 - **AboutUs Page:** 
 ![AboutUs Page](images/about.png)
 
+
 ## Home Pages
 
 - **Beauty Homepage**
@@ -33,12 +34,16 @@ Chic Cart is a project aimed at replicating the functions and requirements of a 
 
 - **Address Page**
 ![Address Page](images/address.png)
+
 - **Contact Us Page**
 ![Contact Page](images/contact.png)
-- **OTP Page**
-![OTP Page](images/otp.png)
+
 - **Payment Page**
 ![Payment Page](images/payment.png)
+
+- **OTP Page**
+![OTP Page](images/otp.png)
+
 - **Successful Payment Page**
 ![Successful Payment Page](images/success.png)
 
