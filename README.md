@@ -48,6 +48,8 @@ Chic Cart is a project aimed at replicating the functions and requirements of a 
 ![Successful Payment Page](images/success.png)
 
 ## Profile Page
+
+- **Profile Page**
 ![Profile Page](images/profile.png)
 - **Signup Page**
 ![Signup Page](images/signup.png)
